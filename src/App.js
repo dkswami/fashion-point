@@ -1,5 +1,5 @@
 import Products from './components/products/products.component';
-
+import 'bootstrap/dist/css/bootstrap.min.css';
 import './App.css';
 
 function App() {
