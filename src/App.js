@@ -1,7 +1,7 @@
 import { Routes, Route } from 'react-router-dom';
 import Home from './routes/home/home.component';
 import Authentication from './routes/authentication/authentication.component';
-import Products from './components/products/products.component';
+import Products from './routes/products/products.component';
 import Navigation from './routes/navigation/navigation.component';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import './App.css';
